@@ -56,7 +56,6 @@ add_executable(${PROJECT_NAME}.elf
     ${USER_SOURCES}
     ${USER_SOURCES_CXX}
     ${USER_HEADERS}
-    ${LINKER_SCRIPT}
 )
 
 # Tools para pós-compilação
